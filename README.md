@@ -1,6 +1,6 @@
 ## Olá, eu sou o João Guilherme 👋
 
-- 🔭 Desenvolvedor Full-Stack
+- 🔭 Desenvolvedor Full Stack
 - 📝 Estou sempre buscando aprimorar meu conhecimento e aprendizado
 - 💻 Competências: Html, Css, JavaScript, React Native, PHP, TypeScript
 
